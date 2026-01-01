@@ -29,7 +29,7 @@ Curioso por programação, interfaces e desenvolvimento front-end;
   <a href="https://www.instagram.com/felipebism" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/felipe-murilo-alves-torres-040821399" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-murilo-alves-torres-040821399" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
