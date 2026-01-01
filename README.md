@@ -1,11 +1,14 @@
- Me chamo Felipe Alves Torres
+Me chamo Felipe Alves Torres
 
- Estudante do Instituto Federal de Rondônia (IFRO)  
-💻 Técnico em Informática  
+Estudante do Instituto Federal de Rondônia (IFRO)  
 
- Interesse em desenvolvimento web e soluções digitais  
- Sempre buscando aprender e evoluir na área de tecnologia  
- Curioso por programação, interfaces e desenvolvimento front-end  
+Técnico em Informática  
+
+Interesse em desenvolvimento web e soluções digitais;  
+ 
+Sempre buscando aprender e evoluir na área de tecnologia;  
+
+Curioso por programação, interfaces e desenvolvimento front-end;  
  
 
 ---
