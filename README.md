@@ -1,16 +1,16 @@
-👋 Me chamo Felipe Alves Torres
+ Me chamo Felipe Alves Torres
 
-🎓 Estudante do Instituto Federal de Rondônia (IFRO)  
+ Estudante do Instituto Federal de Rondônia (IFRO)  
 💻 Técnico em Informática  
 
-🚀 Interesse em desenvolvimento web e soluções digitais  
-📚 Sempre buscando aprender e evoluir na área de tecnologia  
-🧠 Curioso por programação, interfaces e desenvolvimento front-end  
+ Interesse em desenvolvimento web e soluções digitais  
+ Sempre buscando aprender e evoluir na área de tecnologia  
+ Curioso por programação, interfaces e desenvolvimento front-end  
  
 
 ---
 
-### 🛠️ Tecnologias Front-end
+###  Tecnologias Front-end
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -20,7 +20,7 @@
 
 ---
 
-### 🔗 Conecte-se comigo
+###  Conecte-se comigo
 
 <p>
   <a href="https://www.instagram.com/felipebism" target="_blank">
