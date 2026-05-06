@@ -63,8 +63,11 @@ Desenvolvimento de scripts de Automação Robótica de Processos para orquestra�
 </p>
 
 ▪ **Sistemas Operacionais:** Domínio em ambiente Windows para desenvolvimento e administração de redes locais.
+
 ▪ **Hardware & Manutenção:** Experiência prática em upgrade de componentes, clonagem de discos (procedimentos de *Hot Clone* HDD para SSD) e manutenção de impressoras.
+
 ▪ **Redes & Servidores:** Gerenciamento de diretórios corporativos e configuração de controle de permissões de acesso.
+
 ▪ **Deploy:** Hospedagem de aplicações utilizando plataformas de nuvem como Render.
 
 ---
