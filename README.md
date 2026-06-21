@@ -56,7 +56,7 @@
     <td align="center" width="25%">
       <strong>Backend</strong>
       <br><br>
-      Python, Flask, SQL
+      Python, Flask, SQL, React
     </td>
     <td align="center" width="25%">
       <strong>Automação</strong>
