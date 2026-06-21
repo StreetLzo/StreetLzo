@@ -417,7 +417,7 @@ Meu objetivo é continuar evoluindo como desenvolvedor, aprofundando conheciment
 <table>
   <tr>
     <td align="center">
-      <strong>Desenvolvimento Web</strong>
+      <strong>Desenvolvimento</strong>
     </td>
     <td align="center">
       <strong>Backend</strong>
