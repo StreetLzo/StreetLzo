@@ -81,7 +81,7 @@
 
 ## Sobre mim
 
-Sou Felipe Alves Torres, formado como Técnico em Informática pelo Instituto Federal de Rondônia e atualmente acadêmico de Análise e Desenvolvimento de Sistemas.
+Sou Felipe Murilo Alves Torres, formado como Técnico em Informática pelo Instituto Federal de Rondônia e atualmente acadêmico de Análise e Desenvolvimento de Sistemas.
 
 Minha trajetória na tecnologia é baseada em prática, curiosidade e resolução de problemas reais. Tenho interesse especial por desenvolvimento web, backend, banco de dados, automação de processos, infraestrutura e suporte técnico.
 
