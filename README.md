@@ -56,7 +56,7 @@
     <td align="center" width="25%">
       <strong>Backend</strong>
       <br><br>
-      Python, Flask, SQL, React
+      Python, Flask, FastAPI, SQL
     </td>
     <td align="center" width="25%">
       <strong>Automação</strong>
@@ -156,7 +156,7 @@ Tenho uma visão ampla da tecnologia, unindo desenvolvimento, automação e supo
       </p>
       <ul>
         <li>Python aplicado ao backend</li>
-        <li>Desenvolvimento com Flask</li>
+        <li>Desenvolvimento com Flask e FastAPI</li>
         <li>Modelagem de banco de dados relacional</li>
         <li>Criação de entidades e relacionamentos</li>
         <li>Consultas SQL e uso de ORM</li>
@@ -191,7 +191,7 @@ Tenho uma visão ampla da tecnologia, unindo desenvolvimento, automação e supo
         <img src="https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/>
       </p>
       <ul>
         <li>Administração de ambientes Windows</li>
@@ -225,6 +225,8 @@ Tenho uma visão ampla da tecnologia, unindo desenvolvimento, automação e supo
       <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
       <br>
       <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white"/>
     </td>
     <td align="center" width="33%">
       <h3>Web e Backend</h3>
@@ -233,6 +235,8 @@ Tenho uma visão ampla da tecnologia, unindo desenvolvimento, automação e supo
       <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
       <br>
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
     </td>
     <td align="center" width="33%">
       <h3>Ferramentas</h3>
@@ -240,7 +244,9 @@ Tenho uma visão ampla da tecnologia, unindo desenvolvimento, automação e supo
       <br>
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
       <br>
-      <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -269,9 +275,7 @@ Tenho uma visão ampla da tecnologia, unindo desenvolvimento, automação e supo
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <p>
-        <strong>Destaques:</strong>
-      </p>
+      <p><strong>Destaques:</strong></p>
       <ul>
         <li>Modelagem de banco de dados relacional</li>
         <li>Criação de rotas dinâmicas</li>
@@ -289,15 +293,38 @@ Tenho uma visão ampla da tecnologia, unindo desenvolvimento, automação e supo
         <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=white"/>
       </p>
-      <p>
-        <strong>Destaques:</strong>
-      </p>
+      <p><strong>Destaques:</strong></p>
       <ul>
         <li>Automação de navegação web</li>
         <li>Extração e processamento de dados</li>
         <li>Preenchimento automatizado de formulários</li>
         <li>Controle de execução com logs</li>
         <li>Tratamento de erros e tentativas</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">RotaRural — Plataforma Preditiva de Trafegabilidade</h3>
+      <p align="center">
+        Projeto desenvolvido no <strong>Hackathon Extensionista IFRO Ariquemes 2026</strong>. Plataforma colaborativa que prevê as condições das estradas vicinais rurais de Ariquemes/RO combinando relatos da comunidade, dados geográficos, clima e histórico de manutenções — com resultados auditáveis e funcionamento offline.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostGIS-000000?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GeoPandas-000000?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <p align="center"><strong>Minha frente: Engenharia Geográfica</strong></p>
+      <ul>
+        <li>Modelagem espacial com PostGIS</li>
+        <li>Importação e processamento de dados geográficos via OSMnx</li>
+        <li>Motor de correlação espacial (propagação de risco entre trechos do mesmo rio)</li>
+        <li>Integração com GeoPandas e Shapely para análise territorial</li>
+        <li>Score de risco auditável por trecho (0–100, com fatores explicáveis)</li>
+        <li>Suporte à lógica offline-first para uso em campo sem sinal</li>
       </ul>
     </td>
   </tr>
@@ -349,7 +376,7 @@ Tenho uma visão ampla da tecnologia, unindo desenvolvimento, automação e supo
     <td width="33%" align="center">
       <h3>Código</h3>
       <p>
-        Desenvolvimento de sistemas web, automações, scripts e soluções com Python, Flask, JavaScript e SQL.
+        Desenvolvimento de sistemas web, automações, scripts e soluções com Python, Flask, FastAPI, JavaScript e SQL.
       </p>
     </td>
     <td width="33%" align="center">
@@ -445,4 +472,3 @@ Meu objetivo é continuar evoluindo como desenvolvedor, aprofundando conheciment
     alt="Footer"
   />
 </p>
-```
